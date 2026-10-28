@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pyjwt
+pymongo
+python-multipart
+python-docx
+pypdf
+pillow
+numpy
+opencv-python-headless
+python-dotenv
+certifi
