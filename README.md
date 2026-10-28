@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BrandGuard AI (lean MVP)
 ## Run
 Backend: `cd backend && pip install -r requirements.txt && JWT_SECRET=<random> uvicorn main:app --reload --port 8000`
@@ -16,3 +17,7 @@ Vibrant redesign (gradient shell, icon sidebar, animated hover states, status ch
 ## Not built yet
 search/notifications, tests.
 # BrandGuard-AI
+=======
+# BrandGuard-AI
+>>>>>>> 8b7e9450b0b508dea4f7c87c40de4cb9e76818d6
+# brand-guard-ai
